@@ -17,3 +17,4 @@ Packages/
 .build/
 .swiftpm/
 .build
+.swiftpm
