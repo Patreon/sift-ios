@@ -8,7 +8,7 @@
 #import "SiftEvent+Private.h"
 #import "SiftIosDeviceProperties.h"
 #import "SiftQueueConfig.h"
-#import "Sift.h"
+#import "include/Sift.h"
 
 #import "SiftIosDevicePropertiesCollector.h"
 

@@ -14,7 +14,7 @@
 #import "SiftUtils.h"
 #import "TaskManager.h"
 
-#import "Sift.h"
+#import "include/Sift.h"
 #import "Sift+Private.h"
 
 static NSString * const SFServerUrlFormat = @"https://api3.siftscience.com/v3/accounts/%@/mobile_events";

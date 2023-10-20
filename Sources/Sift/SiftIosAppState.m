@@ -12,7 +12,7 @@
 #import "SiftDebug.h"
 #import "SiftUtils.h"
 
-#import "Sift.h"
+#import "include/Sift.h"
 #import "SiftIosAppState.h"
 
 NSMutableDictionary *SFMakeEmptyIosAppState(void) {

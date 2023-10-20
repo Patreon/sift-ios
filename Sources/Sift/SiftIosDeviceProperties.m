@@ -14,7 +14,7 @@
 
 #import "SiftCompatibility.h"
 #import "SiftDebug.h"
-#import "Sift.h"
+#import "include/Sift.h"
 
 #import "SiftIosDeviceProperties.h"
 

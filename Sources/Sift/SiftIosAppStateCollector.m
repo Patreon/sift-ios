@@ -13,7 +13,7 @@
 #import "SiftIosAppState.h"
 #import "SiftTokenBucket.h"
 #import "SiftUtils.h"
-#import "Sift.h"
+#import "include/Sift.h"
 #import "TaskManager.h"
 
 #import "SiftIosAppStateCollector.h"

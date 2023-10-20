@@ -4,7 +4,7 @@
 
 #import "SiftUtils.h"
 
-#import "Sift.h"
+#import "include/Sift.h"
 #import "Sift+Private.h"
 #import "SiftIosAppStateCollector.h"
 #import "SiftIosAppStateCollector+Private.h"

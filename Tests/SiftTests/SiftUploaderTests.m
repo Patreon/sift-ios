@@ -3,7 +3,7 @@
 @import XCTest;
 
 #import "SiftEvent.h"
-#import "Sift.h"
+#import "include/Sift.h"
 #import "Sift+Private.h"
 
 #import "SiftUploader.h"

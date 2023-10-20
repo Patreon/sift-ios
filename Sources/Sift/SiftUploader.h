@@ -2,7 +2,7 @@
 
 @import Foundation;
 
-#import "Sift.h"
+#import "include/Sift.h"
 
 NS_EXTENSION_UNAVAILABLE_IOS("SiftUploader is not supported for iOS extensions.")
 @interface SiftUploader : NSObject <NSURLSessionTaskDelegate, NSURLSessionDataDelegate>

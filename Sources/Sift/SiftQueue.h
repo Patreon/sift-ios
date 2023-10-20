@@ -4,7 +4,7 @@
 
 #import "SiftEvent.h"
 #import "SiftQueueConfig.h"
-#import "Sift.h"
+#import "include/Sift.h"
 
 /**
  * A queue is simply a `NSArray` of `SFEvent` objects with an

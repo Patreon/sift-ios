@@ -2,7 +2,7 @@
 
 @import Foundation;
 
-#import "Sift.h"
+#import "include/Sift.h"
 
 /** Private methods of `Sift`. */
 @interface Sift ()
